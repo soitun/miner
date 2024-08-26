@@ -1,3 +1,4 @@
+# DEPRECATED. This is old miner for Arweave 2.0-2.5
 # Probably first open source pool miner for arweave
 
 ## Install
