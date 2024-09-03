@@ -1,4 +1,5 @@
 # DEPRECATED. This is old miner for Arweave 2.0-2.5
+use this guide https://gist.github.com/vird/1f804fc3e691ed0f55cad098bd4ea3b7
 # Probably first open source pool miner for arweave
 
 ## Install
